@@ -39,6 +39,11 @@
             <scope>test</scope>
         </dependency>
         <dependency>
+            <groupId>cn.hippo4j</groupId>
+            <artifactId>hippo4j-core-spring-boot-starter</artifactId>
+            <version>1.2.0-RC1</version>
+        </dependency>
+        <dependency>
             <groupId>org.springframework.restdocs</groupId>
             <artifactId>spring-restdocs-mockmvc</artifactId>
             <scope>test</scope>
